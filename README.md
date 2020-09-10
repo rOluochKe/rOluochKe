@@ -1,4 +1,4 @@
-<h2>Hello, It's nice to you.</h2>
+<h2>Hello, It's nice to meet you.</h2>
 
 Hi, I'm [Raymond Oluoch](https://raymond-oluoch.tech), a Full Stack Developer 🚀 from Nairobi, Kenya currently, I'm a Technical Support Engineer and a Mentor at Microverse. Besides programming, I play football and traveling.
   
