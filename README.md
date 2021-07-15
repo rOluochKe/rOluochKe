@@ -1,6 +1,6 @@
 <h2>Hello, It's nice to you.</h2>
 
-Hi, I'm [Raymond Oluoch](https://raymond-oluoch.tech), a Software Developer 🚀 from Nairobi, Kenya currently, I'm a Code Reviewer and a Mentor at Microverse. Besides programming, I play football and traveling.
+Hi, I'm [Raymond Oluoch](https://raymondoluoch.me/), a Software Developer 🚀 from Nairobi, Kenya currently, I'm a Code Reviewer and a Mentor at Microverse. Besides programming, I play football and traveling.
   
 **Talking about Personal Stuffs:**
 
