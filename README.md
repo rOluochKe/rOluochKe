@@ -1,6 +1,6 @@
 <h2>Hello, It's nice to you.</h2>
 
-Hi, I'm [Raymond Oluoch](https://roluochke.github.io/raymondoluoch/), a Software Developer 🚀 from Nairobi, Kenya currently, I'm a Code Reviewer at Microverse and a Full Stack Developer at Folkslogic Technologies. Besides programming, I play football and enjoy adventures.
+Hi, I'm [Raymond Oluoch](https://raymondoluoch.netlify.app/), a Software Developer 🚀 from Nairobi, Kenya currently, I'm a Code Reviewer at Microverse and a Full Stack Developer at Folkslogic Technologies. Besides programming, I play football and enjoy adventures.
   
 **Talking about Personal Stuffs:**
 
