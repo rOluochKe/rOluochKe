@@ -4,8 +4,7 @@ Software Engineer, Love to code | Travel | Play Football
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Fullstack python development; 
+- 🌱 I’m currently researching and learning Data Science; 
 - 💬 Ask me about anything, I am happy to help;
 
 <h3>Things I code with</h3>
