@@ -1,8 +1,6 @@
 <h2>Hello, It's nice to you.</h2>
 
-Hi, I'm [Raymond Oluoch](https://raymondoluoch.netlify.app/), Software Developer 🚀 from Nairobi, Kenya. Currently, I am a Full Stack Engineer for Folkslogic Technologies, where I collaborate with lead engineers, product managers and designers to build innovative user-centric applications, maintain complex code repositories, adding new features and improving existing ones, engaging in end to end problem solving with my teammates and write reusable, testable, and efficient code.
-
-Besides programming, I play football and enjoy adventures.
+Software Engineer, Love to code | Travel | Play Football
   
 **Talking about Personal Stuffs:**
 
