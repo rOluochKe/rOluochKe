@@ -1,6 +1,6 @@
 <h2>Hello, It's nice to you.</h2>
 
-Software Engineer, Love to code | Data Science Enthusiast | Travel | Play Football
+Software Engineer, Data Science Enthusiast | Love to code | Travel | Play Football
   
 - 💬 Ask me about anything, I am happy to help;
 
