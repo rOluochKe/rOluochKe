@@ -1,10 +1,7 @@
 <h2>Hello, It's nice to you.</h2>
 
-Software Engineer, Love to code | Travel | Play Football
+Software Engineer, Love to code | Data Science Enthusiast | Travel | Play Football
   
-**Talking about Personal Stuffs:**
-
-- 🌱 I’m currently researching and learning Data Science; 
 - 💬 Ask me about anything, I am happy to help;
 
 <h3>Things I code with</h3>
