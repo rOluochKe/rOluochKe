@@ -1,4 +1,4 @@
-<h2>Hello, It's nice to you.</h2>
+<h2>Hello, It's nice to meet you.</h2>
 
 Software Engineer, ML & AI Enthusiast | Love to code | Travel | Play Football
   
