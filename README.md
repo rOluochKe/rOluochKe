@@ -1,15 +1,12 @@
-<h2>Hello, It's nice to meet you.</h2>
+Hi there! I'm a software engineer with 4 years of experience in developing and delivering software solutions. My passion for coding began in my early years and since then, I have devoted my time to learning and developing my skills.
 
-Software Engineer | Love to code | Travel | Play Football
+I specialize in several programming languages such as JavaScript, Python, and TypeScript, and I'm proficient in a range of technologies including web development, mobile app development, and database management. I have also worked with various frameworks and libraries such as React and Node.js.
 
-As a highly skilled software engineer with 4 years of experience in the tech industry, I have a passion for developing innovative solutions to complex problems. With a strong background in JavaScript, TypeScript, Python, and SQL, I have a proven track record of delivering high-quality software on time and within budget.
+My experience has exposed me to various projects and clients, allowing me to collaborate with diverse teams and deliver innovative solutions. I have a strong understanding of software development principles and I'm committed to building reliable and scalable software that meets the needs of end-users.
 
-My experience ranges from developing scalable web applications to building robust software systems for education, healthcare, e-commerce, and finance. I am a quick learner and always keep up-to-date with the latest technologies and industry trends. My collaborative approach to software development, combined with my attention to detail, ensures that I consistently deliver solutions that meet and exceed client expectations.
+When I'm not coding, I enjoy reading tech blogs, participating in hackathons, and attending tech events to keep myself updated with the latest trends in the industry. I'm also an advocate for diversity and inclusion in the tech industry, and I'm committed to creating a more inclusive and supportive environment for underrepresented groups.
 
-I am always seeking new challenges and opportunities to further develop my skills and make a positive impact on the software industry. I am confident that my expertise and passion for software engineering make me an ideal candidate for any software development role.
-
-My technical proficiency includes:
-JavaScript, TypeScript, React.js, Redux, Next.js, Node.js, Express.js, Python, Django, Django Rest Framework, SQL, PostgreSQL, MongoDB, AWS, GCP, Docker, CI/CD, Jira, GitHub, and Git.
+Feel free to check out my Github profile to see some of my previous projects and contributions to the open-source community.
   
 <h4>Where to find me</h4>
 <p><a href="https://www.linkedin.com/in/raymondoluochke" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@iamraymondke" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
