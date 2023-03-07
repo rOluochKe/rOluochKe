@@ -1,6 +1,6 @@
-Hi there! I'm a software engineer with 4 years of experience in developing and delivering software solutions. My passion for coding began in my early years and since then, I have devoted my time to learning and developing my skills.
+Hi there! I'm a software engineer with more than 4 years of experience in developing and delivering software solutions. My passion for coding began in my early years and since then, I have devoted my time to learning and developing my skills.
 
-I specialize in several programming languages such as JavaScript, Python, and TypeScript, and I'm proficient in a range of technologies including web development, mobile app development, and database management. I have also worked with various frameworks and libraries such as React and Node.js.
+I specialize in several programming languages such as JavaScript/TypeScript and Python and I'm proficient in a range of technologies including web development, mobile app development, and database management. I have also worked with various frameworks and libraries such as React.js, Node.js and Django.
 
 My experience has exposed me to various projects and clients, allowing me to collaborate with diverse teams and deliver innovative solutions. I have a strong understanding of software development principles and I'm committed to building reliable and scalable software that meets the needs of end-users.
 
