@@ -10,5 +10,5 @@ Feel free to explore my GitHub profile to see previous projects and contribution
   
 <h4>Where to find me</h4>
 <p>
-<a href="https://www.linkedin.com/in/raymondoluochke" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/raymond-oluoch" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
