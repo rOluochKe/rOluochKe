@@ -1,4 +1,4 @@
-Hi there! With 5 years of industry experience, I am a passionate software engineer dedicated to delivering innovative solutions that leverage the power of machine learning and artificial intelligence. My technical expertise spans full-stack development, including Python, JavaScript, TypeScript, Node, and SQL, with a strong focus on integrating machine learning algorithms.
+Hi there! With 6 years of industry experience, I am a passionate software engineer dedicated to delivering innovative solutions that leverage the power of machine learning and artificial intelligence. My technical expertise spans full-stack development, including Python, JavaScript, TypeScript, Node, and SQL, with a strong focus on integrating machine learning algorithms.
 
 I excel in collaborating with cross-functional teams, ensuring effective communication between developers, designers, and stakeholders, and have a proven track record of successfully applying machine learning techniques to solve complex problems.
 
