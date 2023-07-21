@@ -1,12 +1,10 @@
-Hi there! With 6 years of industry experience, I am a passionate software engineer dedicated to delivering innovative solutions that leverage the power of machine learning and artificial intelligence. My technical expertise spans full-stack development, including Python, JavaScript, TypeScript, Node, and SQL, with a strong focus on integrating machine learning algorithms.
+<strong>Hi there!</strong> 
 
-I excel in collaborating with cross-functional teams, ensuring effective communication between developers, designers, and stakeholders, and have a proven track record of successfully applying machine learning techniques to solve complex problems.
+I am a passionate Software Engineer and Full Stack Developer with a strong affinity for machine learning and data-driven solutions. My GitHub showcases a diverse portfolio of projects reflecting my commitment to excellence and innovation. I enjoy tackling complex challenges, implementing CI/CD workflows, and designing scalable architectures. 
 
-I prioritize scalability and maintainability to create robust applications that harness the potential of artificial intelligence. By staying up-to-date with the latest advancements in the field, I leverage cutting-edge algorithms and frameworks to develop intelligent solutions that drive business value.
+Leveraging my experience in leading cross-functional teams, I foster collaboration to achieve exceptional results. With a growth mindset and an eagerness to learn, I actively contribute to open-source projects and stay up-to-date with emerging technologies. 
 
-Beyond my technical skills, I bring a well-rounded perspective cultivated through diverse experiences. From developing scalable applications to integrating machine learning models, I combine my expertise in software engineering with a deep understanding of artificial intelligence to create solutions that deliver tangible results.
-
-Feel free to explore my GitHub profile to see previous projects and contributions that demonstrate my proficiency in machine learning and artificial intelligence. I am excited to connect with like-minded professionals, collaborate on exciting projects, and make a meaningful impact by harnessing the potential of AI in the software engineering field.
+Through my code, I aim to make a positive impact and inspire others in the ever-evolving world of software engineering. I welcome collaborations and opportunities to create meaningful solutions that drive progress in the tech community.
   
 <h4>Where to find me</h4>
 <p>
