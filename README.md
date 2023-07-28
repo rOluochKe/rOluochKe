@@ -1,6 +1,6 @@
 <strong>Hi there!</strong> 
 
-I am a passionate Software Engineer and Full Stack Developer with a strong affinity for machine learning and data-driven solutions. My GitHub showcases a diverse portfolio of projects reflecting my commitment to excellence and innovation. I enjoy tackling complex challenges, implementing CI/CD workflows, and designing scalable architectures. 
+I am a passionate Full Stack Software Engineer with a strong affinity for machine learning and data-driven solutions. My GitHub showcases a diverse portfolio of projects reflecting my commitment to excellence and innovation. I enjoy tackling complex challenges, implementing CI/CD workflows, and designing scalable architectures. 
 
 Leveraging my experience in leading cross-functional teams, I foster collaboration to achieve exceptional results. With a growth mindset and an eagerness to learn, I actively contribute to open-source projects and stay up-to-date with emerging technologies. 
 
