@@ -1,10 +1,12 @@
-<strong>Seasoned Full Stack Software Engineer | Transforming Concepts into Robust Solutions | Passionate about Innovative Development</strong> 
+<strong>Senior Software Engineer | AI/ML Enthusiast | Engineering Leader</strong>
 
-<strong>Hi there!</strong> With over 6 years of hands-on experience, I specialize in crafting end-to-end software applications that merge creative design with high-performance functionality. My journey spans a spectrum of technologies including frontend frameworks like React, coupled with backend prowess in Node.js, Python and Java.
+Driving the development of scalable, secure B2B SaaS platforms and data-intensive applications. I specialize in full-stack engineering with JavaScript/TypeScript (React, Next.js), Python (Django, FastAPI), and Java (Spring Boot), backed by robust AWS/GCP cloud infrastructure orchestrated with Kubernetes and Docker.
 
-From architecting system structures for scalability to meticulously debugging intricate code, I thrive on challenges that push the boundaries of what's possible. My repositories reflect a dedication to clean code, robust testing, and continuous integration.
+My current focus is on leveraging Generative AI (OpenAI, LangChain) and machine learning to build intelligent, data-driven solutions. I have a proven track record of leading engineering teams, improving system performance by 3x, and building CI/CD pipelines that ensure quality and efficiency.
 
-Let's collaborate on building exceptional software that doesn't just meet expectations, but exceeds them. Feel free to explore my projects and connect for discussions on all things development and innovation.
+My repositories reflect a commitment to clean, tested, and secure code. Passionate about open-source, distributed systems, and mentoring the next generation of developers.
+
+Let's collaborate to build the future. Open to discussions on innovative projects in software engineering, cloud architecture, AI/ML integration, and engineering leadership.
   
 <h4>Where to find me</h4>
 <p>
