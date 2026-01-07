@@ -1,12 +1,13 @@
-<strong>Senior Software Engineer | AI/ML Enthusiast | Engineering Leader</strong>
+<strong>👋 Hi, I'm Raymond</strong>
 
-Driving the development of scalable, secure B2B SaaS platforms and data-intensive applications. I specialize in full-stack engineering with JavaScript/TypeScript (React, Next.js), Python (Django, FastAPI), and Java (Spring Boot), backed by robust AWS/GCP cloud infrastructure orchestrated with Kubernetes and Docker.
+Senior Software Engineer specializing in scalable backend systems, cloud-native architecture, and full-stack development. I build resilient, data-intensive platforms using modern stacks like FastAPI, Spring Boot, React, AWS, and Kubernetes.
 
-My current focus is on leveraging Generative AI (OpenAI, LangChain) and machine learning to build intelligent, data-driven solutions. I have a proven track record of leading engineering teams, improving system performance by 3x, and building CI/CD pipelines that ensure quality and efficiency.
+<strong>🚀 What I'm focused on</strong>
 
-My repositories reflect a commitment to clean, tested, and secure code. Passionate about open-source, distributed systems, and mentoring the next generation of developers.
-
-Let's collaborate to build the future. Open to discussions on innovative projects in software engineering, cloud architecture, AI/ML integration, and engineering leadership.
+- **Architecting event-driven microservices and real-time data pipelines**
+- **Optimizing cloud infrastructure for performance and cost**
+- **Integrating AI/ML models into production applications**
+- **Mentoring engineers and contributing to open-source**
   
 <h4>Where to find me</h4>
 <p>
